@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/momo54181/android_device_gionee_GIONEE_BBL7516A'
+        default: 'https://github.com/August-smile/android_device_alps_oplus6893'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
